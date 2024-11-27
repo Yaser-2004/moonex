@@ -1,0 +1,6 @@
+.Hero {
+    background-image: url("../src/assets/foreground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
